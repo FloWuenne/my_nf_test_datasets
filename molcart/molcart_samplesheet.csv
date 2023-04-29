@@ -1,0 +1,3 @@
+sample,image_DAPI,image_WGA,spot_table
+SAMPLE1_MC,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE1.DAPI.tiff,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE1.WGA.tiff,https://github.com/FloWuenne/my_nf_test_datasets/blob/main/molcart/SAMPLE1.spots.tsv
+SAMPLE2_MC,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE2.DAPI.tiff,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE2.WGA.tiff,https://raw.githubusercontent.com/FloWuenne/my_nf_test_datasets/main/molcart/SAMPLE2.spots.tsv
