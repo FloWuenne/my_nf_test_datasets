@@ -1,0 +1,7 @@
+id,marker,filename,cycle,type,replicate
+SAMPLE1_MC,DAPI,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE1.DAPI.tiff,1,image,r1
+SAMPLE1_MC,WGA,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE1.WGA.tiff,2,image,r1
+SAMPLE1_MC,x,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE1.spots.tsv,x,spot_table,r1
+SAMPLE2_MC,DAPI,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE2.DAPI.tiff,1,image,r2
+SAMPLE2_MC,WGA,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE2.WGA.tiff,2,image,r2
+SAMPLE2_MC,x,https://github.com/FloWuenne/my_nf_test_datasets/raw/main/molcart/SAMPLE2.spots.tsv,x,spot_table,r2
