@@ -1,0 +1,3 @@
+id,marker,filename,cycle,type,replicate
+32683-slide1_B2,DAPI,32683-slide1_B2-1_DAPI.tiff,1,image,r1
+32683-slide1_B2,x,32683-slide1_B2-1_results.txt,x,spot_table,r1
